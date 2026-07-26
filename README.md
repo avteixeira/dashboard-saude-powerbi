@@ -31,10 +31,9 @@ Power BI (modelagem de dados, DAX, visualização)
 ## Estrutura do repositório
 dashboard-saude-powerbi/
 ├── dashboard-atendimento-saude.pbix
-├── imagens/
+├── imagem/
 └── README.md
 
-
 ## Prints do dashboard
-![Visão geral](imagens/dashboard-visao-geral.png)
-![Análise operacional e financeira](imagens/dashboard-analise.png)
+![Visão geral](imagem/dashboard-visao-geral.png)
+![Análise operacional e financeira](imagem/dashboard-analise.png)
