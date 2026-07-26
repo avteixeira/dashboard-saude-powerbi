@@ -29,10 +29,11 @@ O projeto simula a análise de atendimentos de uma clínica com múltiplas unida
 Power BI (modelagem de dados, DAX, visualização)
 
 ## Estrutura do repositório
-dashboard-saude-powerbi/
-├── dashboard-atendimento-saude.pbix
-├── imagem/
-└── README.md
+
+    dashboard-saude-powerbi/
+    ├── dashboard-atendimento-saude.pbix
+    ├── imagem/
+    └── README.md
 
 ## Prints do dashboard
 ![Visão geral](imagem/dashboard-visao-geral.png)
